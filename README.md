@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UOA7c30OGV7jgBye3U/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/UOA7c30OGV7jgBye3U/giphy.gif" width="250"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,6 +18,7 @@
 
 ### :woman_technologist: About Us :
 Welcome to the VolSib!✨
+
 ⚡️Who are we? Developers who are interested in their own professional development and want to provide an opportunity for specialists of different directions and levels to realize their ideas and goals.
 
 ⚡️What are we doing? By developing our own commercial projects, we provide services for the development of custom projects. We also provide a platform on which everyone can realize their projects and ideas. In addition, we are developing this platform, literally, before your eyes.
