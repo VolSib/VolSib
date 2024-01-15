@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/UOA7c30OGV7jgBye3U/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://instagram.com/vol.sib">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
