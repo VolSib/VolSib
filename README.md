@@ -46,6 +46,8 @@ We believe that community collaboration can lead to technology that benefits eve
 </div>
 
 ### :fire: Our Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VolSib&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolSib&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VolSib&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VolSib&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VolSib&theme=github_dark" alt=""/>
+</div>
